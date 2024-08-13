@@ -25,4 +25,6 @@ umap_learn.egg-info
 
 # docs
 doc/auto_examples
-doc/_build
+doc/_build# pixi environments
+.pixi
+*.egg-info
